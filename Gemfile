@@ -4,6 +4,8 @@ gem 'simple_form'
 gem 'devise'
 gem 'bootstrap-sass', '~> 3.2.0'
 
+gem 'morrisjs-rails'
+gem 'raphael-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.5'
 
